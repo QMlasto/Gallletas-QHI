@@ -1,0 +1,222 @@
+
+
+
+body{
+    background:black;
+    font-family: 'Nunito', sans-serif;
+}
+h1{
+    background-image: 50px;
+    color: white;
+}
+h1{
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+    
+}
+h1 strong{
+    color:white;
+}
+
+.primero{
+    background:white;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    text-align: center;
+    
+    
+   
+}
+
+.primero img{
+    width: 500px;
+}
+.primero-boton{
+    width: 250px;
+    height: 40px;
+    background-color: #99cc00;
+    border-radius: 24px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.somos{
+    background:white;
+    text-align: center;
+    padding:50px;
+    font-size: 20px;
+
+    
+}
+
+.somos h2{
+    color: #99cc00;
+    margin-bottom: 10px;
+}
+.somos p{
+    margin-bottom: 20px;
+}
+.tercero{
+    background:white;
+    text-align: center;
+    padding:50px;
+    margin: 25px 2px;
+
+}
+.tercero img{
+    width: 500px;
+    
+}
+.cuarto{
+    background-color: white;
+    text-align: center;
+    padding:50px ;
+    margin: 25px 2px;
+}
+.quinta{
+    background-color: white;
+    text-align: center;
+    padding:50px ;
+    margin: 25px 2px;
+}
+.quinta img{
+    width: 100px;
+}
+
+
+h3{
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+}
+h4{
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;   
+}
+h5{
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+}
+
+h6{
+    margin: 0px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+}
+
+
+ul li {
+color: seashell;
+}
+
+.header{
+    background:black;
+    color: honeydew;
+    display: flex;
+    justify-content: space-between;
+    height: 90px;
+}
+
+.header li{
+    height: inherit;
+}
+
+.header a{
+    color:white;
+text-decoration: none;
+height: inherit;
+display: flex;
+align-items: center;
+padding: 0px 10px;
+}
+
+.logo img{
+    width: 100px;
+}
+.menu{
+    height: inherit;
+}
+
+ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    height: inherit;
+}
+.tercero h3{
+    color: #99cc00;
+    margin-bottom: 10px;
+}
+.cuarto h4{
+    color: #99cc00;
+    margin-bottom: 10px;
+}
+.quinta h5{
+    color: #99cc00;
+    margin-bottom: 10px;
+}
+.container1{
+    color: white;
+    background: #99cc00 ;
+    display: flex;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    padding: 20px;
+    justify-content: space-around;
+}
+.container2{
+    color: black;
+    background: white;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+.col1-container1{
+width: 400px;
+}
+.col2-comtainer1{
+width: 200px;
+
+}
+.col3-container1{
+width: 300px;
+}
+.rowl1-contacto img{
+    width: 35px;
+    height: 25px;
+}
+.rowl2-contacto img{
+width: 35px;
+height: 25px;
+}
+.rowl1-redes img{
+    width: 35px;
+    height: 25px;
+}
+.rowl1-contacto{
+    display: flex;
+    align-items: center;
+    
+}
+.rowl2-contacto{
+    display:flex ;
+    align-items: center;
+}
+.rowl1-contacto p{
+    padding-left: 10px;
+    margin: 2opx;
+}
+.rowl2-contacto p{
+    padding-left: 10px;
+    margin: 2px;
+}
+.col2-container1 a{
+    color: white;
+    text-decoration: none;
+}
+.container2{
+   margin: 0px;
+    padding:10px 10px ;
+}
