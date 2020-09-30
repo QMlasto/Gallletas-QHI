@@ -84,26 +84,45 @@ h1 strong{
 }
 .quinta img{
     width: 100px;
+    
 }
-
-
+.sexta{
+    background-color: white;
+    text-align: center;
+    padding:50px ;
+    margin: 25px 2px;
+}
+.septima{
+    background-color: white;
+    text-align: center;
+    padding:50px ;
+    margin: 25px 2px;
+}
 h3{
     font-family: 'Nunito', sans-serif;
-    font-size: 30px;
+    font-size: 20px;
 }
 h4{
     font-family: 'Nunito', sans-serif;
-    font-size: 30px;   
+    font-size: 20px;   
 }
 h5{
     font-family: 'Nunito', sans-serif;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 h6{
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+}
+h7{
     margin: 0px;
     font-family: 'Nunito', sans-serif;
-    font-size: 30px;
+    font-size: 20px;
+}
+h8{
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
 }
 
 
@@ -158,6 +177,16 @@ ul{
     color: #99cc00;
     margin-bottom: 10px;
 }
+.sexta h6{
+    
+    color: #99cc00;
+    margin-bottom: 10px;
+}
+.septima h8{
+    color: #99cc00;
+    margin-bottom: 10px;
+}
+
 .container1{
     color: white;
     background: #99cc00 ;
